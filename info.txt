@@ -1,0 +1,5 @@
+username: devlutfor
+pass: Pu9L3uHSbY3xgL5v
+
+
+mongodb+srv://mahmudshorif07:J7KhgOCMYXGGlCr7@cluster0.m8qu9k4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
